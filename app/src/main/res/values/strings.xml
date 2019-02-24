@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task02</string>
+    <string name="m_settings">Настройки</string>
+    <string name="m_search">Поиск</string>
+    <string name="m_logout">Выход</string>
+
+    <string name="something_went_wrong">Что-то пошло не так!</string>
+    <string name="main_fragment">Main Fragment</string>
+    <string name="empty_enquiry">Пустой запрос</string>
+    <string name="search_engine_not_choosen">Не выбран поисковик</string>
+    <string name="choose_search_engine">Выберите поисковой сервис</string>
+</resources>
